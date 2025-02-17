@@ -23,11 +23,11 @@ Putting in practing the aprendising taken in classroom
 
 The following tools were used in the construction of the project:
 
-- IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio Community 2022</a>
+- IDE: <a href="https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030">Visual Studio Community 2022</a>
 
 <h2 id=author>🎩 Author</h2>
 
 Developed by <a href="https://www.linkedin.com/in/rafael-santos-8a0b44313//" target="_blank">Rafael Santos</a>
 
 <h2 id=licence>:lock: Licence</h2>
-<a href="https://github.com/r4santos/Jogo-Da-Velha/blob/main/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/r4santos/Noughts-and-Crosses/blob/main/LICENSE" target="_blank">MIT</a>
